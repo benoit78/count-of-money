@@ -13,5 +13,6 @@ RUN npm install
 # Expose the app port
 EXPOSE 5000
 
+RUN npm run build
 # Set the command to start the server
 CMD ["npm", "start"]
