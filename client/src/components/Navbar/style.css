@@ -1,0 +1,30 @@
+.design-navbar {
+  height: 5rem;
+  border-bottom: 2px solid #F1F3F4;
+}
+
+.navbar-button {
+  padding: 0.5rem;
+}
+
+.navbar-button:not(:last-child) {
+  margin-right: 1rem;
+}
+
+
+.logo {
+  width: 10rem;
+}
+.notShowNav {
+  display: none !important;
+}
+
+.showNav {
+  display: block !important;
+}
+
+.dropdown-toggle {
+  width: 100%;
+  padding-left: 3rem;
+  padding-right: 3rem;
+}

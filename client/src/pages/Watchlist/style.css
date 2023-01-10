@@ -1,0 +1,38 @@
+.card {
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    width: 30rem;
+    height: auto;
+}
+
+.card-body {
+    justify-content: center;
+    display: flex;
+}
+
+.card-body h1 {
+    font-size: 2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+.positionbtn {
+    justify-content: center;
+    display: flex;
+}
+
+.btn {
+    width: 25rem;
+    border-radius: 50%;
+}
+
+.register_compte_pos {
+    top: 50%;
+    position: absolute;
+    left: 50%;
+    transform: translate(-25%, 625%);
+    width: 30rem;
+    height: auto;
+}
